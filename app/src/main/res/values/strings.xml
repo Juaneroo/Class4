@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string name="nombre">Nombre</string>
+    <string name="cedula">Cédula</string>
+    <string name="nacimiento">Fecha de nacimiento</string>
+    <string name="botonA">A</string>
+    <string name="botonB">B</string>
+    <string name="botonC">C</string>
+</resources>
